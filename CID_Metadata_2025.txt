@@ -1,0 +1,12 @@
+CID: bafybeihjq4j5ff5klypuyktftnccab7z7hucdpy7xa6mkjqifqxe7z3hay
+Filename: License_Enforcement_June2025_Package.car
+Date: Fri Jun 27 14:34:35 UTC 2025
+Author: Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
+GPG Fingerprint: B4EC 7343 AB0D BF24
+License Enforcement Notice:
+This package contains notarized licensing enforcement material regarding original Bitcoin source code and all derived forks.
+
+Use, hosting, redistribution, or protocol-level reuse without prior written authorization is subject to:
+• Royalty assessment
+• Public takedown notice
+• Legal recourse under 17 U.S. Code §§ 102 & 1201

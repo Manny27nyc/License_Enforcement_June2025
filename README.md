@@ -18,3 +18,13 @@ Unauthorized use of Bitcoin intellectual property is subject to enforcement unde
 **§ 1201** (circumvention of technological measures).
 
 ---
+
+## 🔐 License Enforcement 2025
+
+This repository is cryptographically notarized and publicly published on IPFS.
+
+📦 Archive: [Download from IPFS](https://w3s.link/ipfs/bafybeihjq4j5ff5klypuyktftnccab7z7hucdpy7xa6mkjqifqxe7z3hay)  
+📄 Signed Metadata: `CID_Metadata_2025.txt.asc`, `License_Enforcement_Metadata_2025.txt.asc`  
+🔐 GPG Fingerprint: **B4EC 7343 AB0D BF24**
+
+Unauthorized use, fork, or redistribution of this material is subject to legal recourse under **17 U.S. Code § 102** and **§ 1201**.
